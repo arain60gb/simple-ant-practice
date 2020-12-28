@@ -1,0 +1,66 @@
+#components-layout-demo-side .logo {
+  height: 32px;
+  margin: 16px;
+  background: rgba(255, 255, 255, 0.3);
+}
+
+.site-layout .site-layout-background {
+  background: #fff;
+  color: blue;
+}
+.heading{
+  margin-top: 50px;
+}
+
+
+
+ /* Add to card project */
+
+
+/* .App {
+  text-align: center;
+}
+.cart-wrapper{
+  border: 1px solid;
+  width: 500px;
+  display: flex;
+  justify-content: space-evenly;
+  margin: 70px;
+}
+img{
+  width: 81px;
+  height: 156px;
+}
+.text-wrapper{
+  margin-top: 70px;
+  font-weight: bold
+}
+.btn-wrapper{
+  margin-top: 60px;
+}
+button{
+  color: white;
+  background-color: red;
+  border: none;
+  height: 40px;
+  font-weight: bold;
+  border-radius: 5px;
+}
+.fa-cart-plus{
+  font-size: 101px;
+  position: absolute;
+  color: red;
+  right: 75px;
+  top: 69px;
+}
+.counting{
+  width: 40px;
+  height: 30px;
+  position: absolute;
+  right: 93px;
+  top: 93px;
+  background-color: red;
+  color: white;
+  font-weight: bold;
+  font-size: 30px;
+} */
